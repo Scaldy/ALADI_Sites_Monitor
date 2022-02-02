@@ -13,6 +13,8 @@ sites:
     url: $URL_SCOD
   - name: PLGN
     url: $URL_PLGN
+  - name: Prueba_NE
+    url: http://noexiste.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
