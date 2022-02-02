@@ -15,10 +15,10 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: /ALADI_Sites_Monitor
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Upptime ALADI
   introTitle: "**Upptime** es una monitor open-source y página de Estado de Sitios, powered by GitHub."
   introMessage: Esta es una página en tiempo real de los sitios de ALADI
   navbar:
