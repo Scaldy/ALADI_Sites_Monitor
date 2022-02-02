@@ -19,7 +19,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime ALADI
-  introTitle: "**Upptime** es una monitor open-source y página de Estado de Sitios, powered by GitHub."
+  introTitle: "**Upptime** es un monitor open-source y página de Estado de Sitios, powered by GitHub."
   introMessage: Esta es una página en tiempo real de los sitios de ALADI
   navbar:
     - title: Status
