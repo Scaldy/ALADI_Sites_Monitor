@@ -95,18 +95,18 @@
     "icon": "https://favicons.githubusercontent.com/www.no.existe.google.com",
     "slug": "prueba-no-existe",
     "status": "down",
-    "uptime": "96.81%",
-    "uptimeDay": "96.81%",
-    "uptimeWeek": "96.81%",
-    "uptimeMonth": "96.81%",
-    "uptimeYear": "96.81%",
+    "uptime": "66.98%",
+    "uptimeDay": "66.98%",
+    "uptimeWeek": "66.98%",
+    "uptimeMonth": "66.98%",
+    "uptimeYear": "66.98%",
     "time": 62,
     "timeDay": 62,
     "timeWeek": 62,
     "timeMonth": 62,
     "timeYear": 62,
     "dailyMinutesDown": {
-      "2022-02-03": 0
+      "2022-02-03": 4
     }
   },
   {
@@ -115,18 +115,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "prueba-error-500",
     "status": "down",
-    "uptime": "3.54%",
-    "uptimeDay": "3.54%",
-    "uptimeWeek": "3.54%",
-    "uptimeMonth": "3.54%",
-    "uptimeYear": "3.54%",
+    "uptime": "0.97%",
+    "uptimeDay": "0.97%",
+    "uptimeWeek": "0.97%",
+    "uptimeMonth": "0.97%",
+    "uptimeYear": "0.97%",
     "time": 1028,
     "timeDay": 1028,
     "timeWeek": 1028,
     "timeMonth": 1028,
     "timeYear": 1028,
     "dailyMinutesDown": {
-      "2022-02-03": 1
+      "2022-02-03": 5
     }
   }
 ]
