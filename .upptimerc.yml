@@ -19,7 +19,7 @@ sites:
     url: $URL_PLGN
     maxResponseTime: 500
   - name: Prueba_No_Existe
-    url: https://www.no.existe.google.com
+    url: https://www.google.com
     maxResponseTime: 5000
   - name: Prueba_Error_500
     url: $URL_ERROR_500
