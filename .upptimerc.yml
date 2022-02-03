@@ -13,9 +13,9 @@ sites:
     url: $URL_SCOD
   - name: PLGN
     url: $URL_PLGN
-    maxResponseTime: 1000
+    maxResponseTime: 2000
   - name: Prueba_No_Existe
-    url: https://www.no.existe.google.com
+    url: https://www.google.com
   - name: Prueba_Error_500
     url: $URL_ERROR_500
 
