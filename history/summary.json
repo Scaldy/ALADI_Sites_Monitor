@@ -90,24 +90,21 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Prueba_NE",
-    "url": "https://www.google.noexiste.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.noexiste.com",
-    "slug": "prueba-ne",
-    "status": "down",
-    "uptime": "1.96%",
-    "uptimeDay": "1.96%",
-    "uptimeWeek": "1.96%",
-    "uptimeMonth": "1.96%",
-    "uptimeYear": "1.96%",
-    "time": 86,
-    "timeDay": 86,
-    "timeWeek": 86,
-    "timeMonth": 86,
-    "timeYear": 86,
-    "dailyMinutesDown": {
-      "2022-02-03": 4,
-      "2022-02-02": 239
-    }
+    "name": "Prueba_No_Existe",
+    "url": "https://www.google.com",
+    "icon": "https://favicons.githubusercontent.com/www.google.com",
+    "slug": "prueba-no-existe",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
