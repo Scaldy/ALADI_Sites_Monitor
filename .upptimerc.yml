@@ -25,6 +25,9 @@ sites:
     url: $URL_ERROR_500
     maxResponseTime: 5000
 
+assignees: # Users to assign downtime issues (optional)
+  - Scaldy
+  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
