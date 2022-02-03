@@ -5,19 +5,25 @@ repo: ALADI_Sites_Monitor # The name of this repository
 sites:
   - name: Web Institucional
     url: $URL_INSTITUCIONAL
+    maxResponseTime: 5000
   - name: SICOEX
     url: $URL_SICOEX
+    maxResponseTime: 5000
   - name: Acceso a Mercados
     url: $URL_AAM
+    maxResponseTime: 5000
   - name: SCOD
     url: $URL_SCOD
+    maxResponseTime: 5000
   - name: PLGN
     url: $URL_PLGN
     maxResponseTime: 2000
   - name: Prueba_No_Existe
-    url: https://www.google.com
+    url: https://www.no.existe.google.com
+    maxResponseTime: 5000
   - name: Prueba_Error_500
     url: $URL_ERROR_500
+    maxResponseTime: 5000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
