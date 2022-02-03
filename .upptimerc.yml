@@ -17,7 +17,7 @@ sites:
     maxResponseTime: 5000
   - name: PLGN
     url: $URL_PLGN
-    maxResponseTime: 2000
+    maxResponseTime: 500
   - name: Prueba_No_Existe
     url: https://www.no.existe.google.com
     maxResponseTime: 5000
