@@ -8,16 +8,16 @@ sites:
     maxResponseTime: 5000
   - name: SICOEX
     url: $URL_SICOEX
-    maxResponseTime: 5000
+    maxResponseTime: 50
   - name: Acceso a Mercados
     url: $URL_AAM
     maxResponseTime: 5000
   - name: SCOD
     url: $URL_SCOD
-    maxResponseTime: 500
+    maxResponseTime: 5000
   - name: PLGN
     url: $URL_PLGN
-    maxResponseTime: 500
+    maxResponseTime: 5000
   - name: Prueba_No_Existe
     url: https://www.google.no.existe.com
     maxResponseTime: 5000
