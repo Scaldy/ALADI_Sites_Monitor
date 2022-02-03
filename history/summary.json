@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1067,
-    "timeDay": 1069,
-    "timeWeek": 1067,
-    "timeMonth": 1067,
-    "timeYear": 1067,
+    "time": 1066,
+    "timeDay": 1068,
+    "timeWeek": 1066,
+    "timeMonth": 1066,
+    "timeYear": 1066,
     "dailyMinutesDown": {}
   },
   {
@@ -22,18 +22,20 @@
     "url": "$URL_SICOEX",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "sicoex",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 873,
-    "timeDay": 881,
-    "timeWeek": 873,
-    "timeMonth": 873,
-    "timeYear": 873,
-    "dailyMinutesDown": {}
+    "status": "degraded",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 880,
+    "timeDay": 888,
+    "timeWeek": 880,
+    "timeMonth": 880,
+    "timeYear": 880,
+    "dailyMinutesDown": {
+      "2022-02-03": 0
+    }
   },
   {
     "name": "Acceso a Mercados",
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 561,
-    "timeDay": 575,
-    "timeWeek": 561,
-    "timeMonth": 561,
-    "timeYear": 561,
+    "time": 556,
+    "timeDay": 568,
+    "timeWeek": 556,
+    "timeMonth": 556,
+    "timeYear": 556,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1208,
-    "timeDay": 1225,
-    "timeWeek": 1208,
-    "timeMonth": 1208,
-    "timeYear": 1208,
+    "time": 1209,
+    "timeDay": 1226,
+    "timeWeek": 1209,
+    "timeMonth": 1209,
+    "timeYear": 1209,
     "dailyMinutesDown": {}
   },
   {
@@ -76,19 +78,19 @@
     "url": "$URL_PLGN",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "plgn",
-    "status": "degraded",
-    "uptime": "97.32%",
-    "uptimeDay": "97.13%",
-    "uptimeWeek": "97.32%",
-    "uptimeMonth": "97.32%",
-    "uptimeYear": "97.32%",
-    "time": 2324,
-    "timeDay": 2284,
-    "timeWeek": 2324,
-    "timeMonth": 2324,
-    "timeYear": 2324,
+    "status": "up",
+    "uptime": "96.77%",
+    "uptimeDay": "96.52%",
+    "uptimeWeek": "96.77%",
+    "uptimeMonth": "96.77%",
+    "uptimeYear": "96.77%",
+    "time": 2272,
+    "timeDay": 2228,
+    "timeWeek": 2272,
+    "timeMonth": 2272,
+    "timeYear": 2272,
     "dailyMinutesDown": {
-      "2022-02-03": 41
+      "2022-02-03": 50
     }
   },
   {
@@ -97,18 +99,18 @@
     "icon": "https://favicons.githubusercontent.com/www.google.no.existe.com",
     "slug": "prueba-no-existe",
     "status": "down",
-    "uptime": "90.74%",
-    "uptimeDay": "90.74%",
-    "uptimeWeek": "90.74%",
-    "uptimeMonth": "90.74%",
-    "uptimeYear": "90.74%",
+    "uptime": "90.10%",
+    "uptimeDay": "90.10%",
+    "uptimeWeek": "90.10%",
+    "uptimeMonth": "90.10%",
+    "uptimeYear": "90.10%",
     "time": 96,
     "timeDay": 96,
     "timeWeek": 96,
     "timeMonth": 96,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2022-02-03": 117
+      "2022-02-03": 126
     }
   },
   {
@@ -122,13 +124,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1061,
-    "timeDay": 1061,
-    "timeWeek": 1061,
-    "timeMonth": 1061,
-    "timeYear": 1061,
+    "time": 1064,
+    "timeDay": 1064,
+    "timeWeek": 1064,
+    "timeMonth": 1064,
+    "timeYear": 1064,
     "dailyMinutesDown": {
-      "2022-02-03": 1260
+      "2022-02-03": 1269
     }
   }
 ]
