@@ -8,7 +8,7 @@ sites:
     maxResponseTime: 5000
   - name: SICOEX
     url: $URL_SICOEX
-    maxResponseTime: 50
+    maxResponseTime: 5000
   - name: Acceso a Mercados
     url: $URL_AAM
     maxResponseTime: 5000
@@ -19,7 +19,7 @@ sites:
     url: $URL_PLGN
     maxResponseTime: 5000
   - name: Prueba_No_Existe
-    url: https://www.google.no.existe.com
+    url: https://www.google.com
     maxResponseTime: 5000
   - name: Prueba_Error_500
     url: $URL_ERROR_500
