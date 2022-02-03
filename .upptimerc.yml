@@ -24,6 +24,10 @@ sites:
   - name: Prueba_Error_500
     url: $URL_ERROR_500
     maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 500
 
 assignees: # Users to assign downtime issues (optional)
   - Scaldy
