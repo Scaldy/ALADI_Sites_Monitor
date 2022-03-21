@@ -127,18 +127,19 @@
     "url": "$URL_ERROR_500",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "prueba-error-500",
-    "status": "up",
-    "uptime": "98.07%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.08%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.07%",
+    "uptimeYear": "98.08%",
     "time": 1167,
     "timeDay": 1114,
     "timeWeek": 1216,
     "timeMonth": 1198,
     "timeYear": 1167,
     "dailyMinutesDown": {
+      "2022-03-21": 0,
       "2022-02-03": 1278
     }
   }
