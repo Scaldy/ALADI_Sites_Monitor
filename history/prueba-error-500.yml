@@ -1,7 +1,7 @@
 url: $URL_ERROR_500
-status: up
+status: degraded
 code: 200
-responseTime: 3732
-lastUpdated: 2023-05-27T23:38:34.807Z
+responseTime: 16902
+lastUpdated: 2023-05-27T23:49:29.561Z
 startTime: Thu Feb 03 2022 00:26:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
