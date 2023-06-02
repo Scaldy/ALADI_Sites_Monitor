@@ -28,10 +28,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sicoex",
     "status": "up",
-    "uptime": "90.50%",
+    "uptime": "90.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.90%",
+    "uptimeMonth": "91.29%",
     "uptimeYear": "87.42%",
     "time": 1800,
     "timeDay": 1553,
@@ -194,18 +194,19 @@
     "url": "$URL_ERROR_500",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prueba-error-500",
-    "status": "up",
+    "status": "down",
     "uptime": "98.82%",
-    "uptimeDay": "45.21%",
+    "uptimeDay": "53.26%",
     "uptimeWeek": "64.00%",
     "uptimeMonth": "90.88%",
-    "uptimeYear": "98.43%",
-    "time": 2060,
-    "timeDay": 3649,
+    "uptimeYear": "98.44%",
+    "time": 2061,
+    "timeDay": 3807,
     "timeWeek": 3626,
     "timeMonth": 3187,
     "timeYear": 2227,
     "dailyMinutesDown": {
+      "2023-06-02": 0,
       "2023-06-01": 843,
       "2023-05-31": 158,
       "2023-05-30": 1338,
@@ -257,8 +258,7 @@
       "2022-11-22": 44,
       "2022-11-15": 82,
       "2022-11-07": 17,
-      "2022-09-26": 41,
-      "2022-09-16": 34
+      "2022-09-26": 41
     }
   }
 ]
