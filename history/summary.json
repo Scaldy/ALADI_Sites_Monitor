@@ -31,7 +31,7 @@
     "uptime": "90.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.49%",
+    "uptimeMonth": "94.60%",
     "uptimeYear": "87.42%",
     "time": 1803,
     "timeDay": 2183,
@@ -194,12 +194,12 @@
     "url": "$URL_ERROR_500",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prueba-error-500",
-    "status": "up",
+    "status": "down",
     "uptime": "98.82%",
-    "uptimeDay": "83.15%",
+    "uptimeDay": "83.13%",
     "uptimeWeek": "61.83%",
     "uptimeMonth": "90.32%",
-    "uptimeYear": "98.43%",
+    "uptimeYear": "98.44%",
     "time": 2032,
     "timeDay": 2356,
     "timeWeek": 2954,
@@ -254,8 +254,7 @@
       "2023-01-05": 19,
       "2022-12-22": 19,
       "2022-12-13": 16,
-      "2022-12-03": 56,
-      "2022-12-02": 43
+      "2022-12-03": 56
     }
   }
 ]
