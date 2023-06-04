@@ -31,7 +31,7 @@
     "uptime": "90.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.35%",
+    "uptimeMonth": "97.49%",
     "uptimeYear": "87.42%",
     "time": 1803,
     "timeDay": 1624,
@@ -196,17 +196,17 @@
     "slug": "prueba-error-500",
     "status": "up",
     "uptime": "98.82%",
-    "uptimeDay": "92.21%",
-    "uptimeWeek": "61.03%",
-    "uptimeMonth": "90.10%",
-    "uptimeYear": "98.44%",
+    "uptimeDay": "92.95%",
+    "uptimeWeek": "61.14%",
+    "uptimeMonth": "90.13%",
+    "uptimeYear": "98.43%",
     "time": 2031,
     "timeDay": 2000,
     "timeWeek": 2541,
     "timeMonth": 2937,
     "timeYear": 2228,
     "dailyMinutesDown": {
-      "2023-06-03": 112,
+      "2023-06-03": 101,
       "2023-06-02": 228,
       "2023-06-01": 843,
       "2023-05-31": 158,
@@ -251,7 +251,8 @@
       "2023-01-19": 20,
       "2023-01-13": 19,
       "2023-01-12": 21,
-      "2023-01-05": 19
+      "2023-01-05": 19,
+      "2022-12-22": 19
     }
   }
 ]
