@@ -195,10 +195,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prueba-error-500",
     "status": "up",
-    "uptime": "98.85%",
-    "uptimeDay": "84.40%",
-    "uptimeWeek": "59.11%",
-    "uptimeMonth": "89.74%",
+    "uptime": "98.84%",
+    "uptimeDay": "85.14%",
+    "uptimeWeek": "59.22%",
+    "uptimeMonth": "89.76%",
     "uptimeYear": "98.46%",
     "time": 2076,
     "timeDay": 2325,
@@ -206,7 +206,7 @@
     "timeMonth": 2824,
     "timeYear": 2233,
     "dailyMinutesDown": {
-      "2023-06-04": 225,
+      "2023-06-04": 214,
       "2023-06-03": 101,
       "2023-06-02": 228,
       "2023-06-01": 843,
@@ -243,7 +243,8 @@
       "2023-02-14": 106,
       "2023-02-08": 16,
       "2023-02-07": 199,
-      "2023-02-06": 57
+      "2023-02-06": 57,
+      "2023-02-05": 24
     }
   }
 ]
