@@ -14,7 +14,7 @@
     "timeDay": 987,
     "timeWeek": 1022,
     "timeMonth": 1087,
-    "timeYear": 1200,
+    "timeYear": 1199,
     "dailyMinutesDown": {
       "2023-04-27": 21,
       "2023-02-26": 20,
@@ -37,7 +37,7 @@
     "timeDay": 1410,
     "timeWeek": 1745,
     "timeMonth": 1866,
-    "timeYear": 1873,
+    "timeYear": 1874,
     "dailyMinutesDown": {
       "2023-05-04": 1161,
       "2023-05-03": 1440,
@@ -133,7 +133,7 @@
     "timeDay": 1689,
     "timeWeek": 1325,
     "timeMonth": 1524,
-    "timeYear": 1345,
+    "timeYear": 1346,
     "dailyMinutesDown": {
       "2023-05-25": 18,
       "2023-04-27": 21,
@@ -162,7 +162,7 @@
     "timeDay": 2799,
     "timeWeek": 2539,
     "timeMonth": 2497,
-    "timeYear": 2481,
+    "timeYear": 2479,
     "dailyMinutesDown": {
       "2023-05-14": 662,
       "2023-01-20": 25,
@@ -195,18 +195,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prueba-error-500",
     "status": "up",
-    "uptime": "98.90%",
-    "uptimeDay": "68.78%",
-    "uptimeWeek": "79.13%",
+    "uptime": "98.89%",
+    "uptimeDay": "74.14%",
+    "uptimeWeek": "79.14%",
     "uptimeMonth": "88.63%",
     "uptimeYear": "98.52%",
     "time": 2078,
     "timeDay": 3534,
     "timeWeek": 2593,
     "timeMonth": 2801,
-    "timeYear": 2269,
+    "timeYear": 2271,
     "dailyMinutesDown": {
-      "2023-06-06": 428,
+      "2023-06-06": 427,
       "2023-06-05": 129,
       "2023-06-04": 214,
       "2023-06-03": 101,
@@ -236,7 +236,7 @@
       "2023-03-02": 425,
       "2023-03-01": 199,
       "2023-02-28": 553,
-      "2023-02-27": 421
+      "2023-02-27": 463
     }
   }
 ]
