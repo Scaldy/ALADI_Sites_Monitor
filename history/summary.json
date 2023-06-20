@@ -28,7 +28,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sicoex",
     "status": "up",
-    "uptime": "90.84%",
+    "uptime": "90.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -195,18 +195,19 @@
     "url": "$URL_ERROR_500",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prueba-error-500",
-    "status": "up",
+    "status": "down",
     "uptime": "98.84%",
-    "uptimeDay": "96.20%",
-    "uptimeWeek": "99.46%",
+    "uptimeDay": "96.18%",
+    "uptimeWeek": "99.45%",
     "uptimeMonth": "85.50%",
     "uptimeYear": "98.40%",
-    "time": 2135,
+    "time": 2136,
     "timeDay": 1495,
     "timeWeek": 1640,
     "timeMonth": 2678,
     "timeYear": 2276,
     "dailyMinutesDown": {
+      "2023-06-20": 0,
       "2023-06-19": 55,
       "2023-06-11": 1120,
       "2023-06-08": 16,
@@ -240,7 +241,7 @@
       "2023-03-03": 461,
       "2023-03-02": 425,
       "2023-03-01": 199,
-      "2023-02-28": 240
+      "2023-02-28": 223
     }
   }
 ]
