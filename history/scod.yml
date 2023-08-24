@@ -1,7 +1,7 @@
 url: $URL_SCOD
-status: up
+status: degraded
 code: 200
-responseTime: 4585
-lastUpdated: 2023-08-24T03:39:28.131Z
+responseTime: 9943
+lastUpdated: 2023-08-24T05:35:39.610Z
 startTime: 2022-02-02T16:41:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
