@@ -327,19 +327,19 @@
     "url": "$URL_PLGN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plgn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 2641,
-    "timeDay": 3136,
-    "timeWeek": 2773,
-    "timeMonth": 3022,
-    "timeYear": 2649,
+    "time": 2639,
+    "timeDay": 3216,
+    "timeWeek": 2839,
+    "timeMonth": 3031,
+    "timeYear": 2651,
     "dailyMinutesDown": {
-      "2024-07-08": 0
+      "2024-07-08": 13
     }
   },
   {
