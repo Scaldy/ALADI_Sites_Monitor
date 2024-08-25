@@ -1,7 +1,7 @@
 url: $URL_SICOEX
-status: degraded
-code: 503
-responseTime: 24951
-lastUpdated: 2024-08-25T13:38:41.172Z
+status: up
+code: 200
+responseTime: 1667
+lastUpdated: 2024-08-25T13:59:18.254Z
 startTime: 2022-02-02T16:41:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
