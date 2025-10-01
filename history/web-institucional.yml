@@ -1,7 +1,7 @@
 url: $URL_INSTITUCIONAL
-status: down
+status: degraded
 code: 404
-responseTime: 2298
-lastUpdated: 2025-09-30T23:20:16.755Z
+responseTime: 6771
+lastUpdated: 2025-10-01T03:56:52.121Z
 startTime: 2022-02-02T19:45:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
