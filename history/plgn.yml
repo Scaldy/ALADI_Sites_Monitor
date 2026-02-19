@@ -1,7 +1,7 @@
 url: $URL_PLGN
-status: up
-code: 200
-responseTime: 2641
-lastUpdated: 2026-02-19T08:26:11.786Z
+status: down
+code: 415
+responseTime: 524
+lastUpdated: 2026-02-19T09:10:49.217Z
 startTime: 2022-02-02T19:45:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
