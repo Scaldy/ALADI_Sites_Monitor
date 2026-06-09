@@ -12,7 +12,7 @@
     "uptimeYear": "99.43%",
     "time": 2213,
     "timeDay": 2921,
-    "timeWeek": 2745,
+    "timeWeek": 2870,
     "timeMonth": 2892,
     "timeYear": 2231,
     "dailyMinutesDown": {
@@ -42,7 +42,7 @@
     "timeMonth": 0,
     "timeYear": 7617,
     "dailyMinutesDown": {
-      "2026-06-09": 1416,
+      "2026-06-09": 1426,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
@@ -422,14 +422,14 @@
     "uptimeYear": "30.63%",
     "time": 9338,
     "timeDay": 13099,
-    "timeWeek": 13490,
+    "timeWeek": 13409,
     "timeMonth": 13513,
     "timeYear": 11643,
     "dailyMinutesDown": {
       "2025-06-12": 30,
       "2025-07-05": 17,
       "2025-07-28": 18,
-      "2026-06-09": 1416,
+      "2026-06-09": 1426,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
@@ -702,7 +702,7 @@
     "timeMonth": 0,
     "timeYear": 1261,
     "dailyMinutesDown": {
-      "2026-06-09": 1416,
+      "2026-06-09": 1426,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
@@ -1018,16 +1018,16 @@
     "url": "$URL_PLGN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plgn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "82.17%",
-    "uptimeWeek": "77.48%",
-    "uptimeMonth": "86.74%",
+    "uptimeDay": "81.53%",
+    "uptimeWeek": "77.39%",
+    "uptimeMonth": "86.72%",
     "uptimeYear": "98.14%",
-    "time": 1974,
-    "timeDay": 1322,
-    "timeWeek": 1451,
-    "timeMonth": 1628,
+    "time": 1972,
+    "timeDay": 1354,
+    "timeWeek": 1439,
+    "timeMonth": 1627,
     "timeYear": 1858,
     "dailyMinutesDown": {
       "2026-03-06": 34,
@@ -1084,7 +1084,7 @@
       "2026-06-06": 155,
       "2026-06-07": 448,
       "2026-06-08": 322,
-      "2026-06-09": 256
+      "2026-06-09": 265
     }
   },
   {
@@ -1100,7 +1100,7 @@
     "uptimeYear": "99.96%",
     "time": 153,
     "timeDay": 82,
-    "timeWeek": 82,
+    "timeWeek": 81,
     "timeMonth": 77,
     "timeYear": 164,
     "dailyMinutesDown": {
@@ -1125,7 +1125,7 @@
     "uptimeYear": "99.45%",
     "time": 1627,
     "timeDay": 1784,
-    "timeWeek": 1275,
+    "timeWeek": 1292,
     "timeMonth": 2030,
     "timeYear": 1656,
     "dailyMinutesDown": {
