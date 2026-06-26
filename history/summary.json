@@ -42,7 +42,8 @@
     "timeMonth": 0,
     "timeYear": 7617,
     "dailyMinutesDown": {
-      "2026-06-25": 1419,
+      "2026-06-26": 7,
+      "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
@@ -405,8 +406,7 @@
       "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
-      "2025-06-27": 1440,
-      "2025-06-26": 1440
+      "2025-06-27": 1440
     }
   },
   {
@@ -428,7 +428,8 @@
     "dailyMinutesDown": {
       "2025-07-05": 17,
       "2025-07-28": 18,
-      "2026-06-25": 1419,
+      "2026-06-26": 7,
+      "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
@@ -710,14 +711,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "11.16%",
+    "uptimeYear": "11.15%",
     "time": 1294,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1291,
     "dailyMinutesDown": {
-      "2026-06-25": 1419,
+      "2026-06-26": 7,
+      "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
@@ -1049,16 +1051,16 @@
     "url": "$URL_PLGN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plgn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "91.49%",
-    "uptimeWeek": "82.12%",
-    "uptimeMonth": "84.22%",
-    "uptimeYear": "98.11%",
+    "uptimeDay": "89.61%",
+    "uptimeWeek": "82.13%",
+    "uptimeMonth": "84.16%",
+    "uptimeYear": "98.10%",
     "time": 1898,
-    "timeDay": 1358,
-    "timeWeek": 1342,
-    "timeMonth": 1444,
+    "timeDay": 1473,
+    "timeWeek": 1376,
+    "timeMonth": 1448,
     "timeYear": 1791,
     "dailyMinutesDown": {
       "2026-05-02": 73,
@@ -1096,7 +1098,8 @@
       "2026-06-22": 408,
       "2026-06-23": 324,
       "2026-06-24": 275,
-      "2026-06-25": 122
+      "2026-06-25": 143,
+      "2026-06-26": 7
     }
   },
   {
@@ -1112,7 +1115,7 @@
     "uptimeYear": "99.96%",
     "time": 154,
     "timeDay": 54,
-    "timeWeek": 222,
+    "timeWeek": 245,
     "timeMonth": 120,
     "timeYear": 166,
     "dailyMinutesDown": {
@@ -1137,7 +1140,7 @@
     "uptimeYear": "99.43%",
     "time": 1621,
     "timeDay": 1236,
-    "timeWeek": 1301,
+    "timeWeek": 1284,
     "timeMonth": 1320,
     "timeYear": 1644,
     "dailyMinutesDown": {
