@@ -42,7 +42,7 @@
     "timeMonth": 0,
     "timeYear": 7617,
     "dailyMinutesDown": {
-      "2026-07-08": 72,
+      "2026-07-08": 119,
       "2026-07-07": 1440,
       "2026-07-06": 1440,
       "2026-07-05": 1440,
@@ -419,7 +419,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "22.95%",
+    "uptimeYear": "22.94%",
     "time": 10338,
     "timeDay": 7438,
     "timeWeek": 11279,
@@ -427,7 +427,7 @@
     "timeYear": 12657,
     "dailyMinutesDown": {
       "2025-07-28": 18,
-      "2026-07-08": 72,
+      "2026-07-08": 119,
       "2026-07-07": 1440,
       "2026-07-06": 1440,
       "2026-07-05": 1440,
@@ -720,8 +720,8 @@
     "status": "up",
     "uptime": "79.37%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.60%",
-    "uptimeMonth": "22.92%",
+    "uptimeWeek": "94.06%",
+    "uptimeMonth": "23.03%",
     "uptimeYear": "9.64%",
     "time": 1275,
     "timeDay": 731,
@@ -1069,14 +1069,14 @@
     "slug": "plgn",
     "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "87.98%",
-    "uptimeWeek": "79.48%",
-    "uptimeMonth": "81.12%",
-    "uptimeYear": "98.43%",
+    "uptimeDay": "84.72%",
+    "uptimeWeek": "79.34%",
+    "uptimeMonth": "81.01%",
+    "uptimeYear": "98.42%",
     "time": 1853,
     "timeDay": 981,
-    "timeWeek": 1227,
-    "timeMonth": 1375,
+    "timeWeek": 1250,
+    "timeMonth": 1373,
     "timeYear": 1742,
     "dailyMinutesDown": {
       "2026-06-10": 134,
@@ -1106,7 +1106,7 @@
       "2026-07-04": 323,
       "2026-07-05": 352,
       "2026-07-07": 173,
-      "2026-07-08": 0
+      "2026-07-08": 47
     }
   },
   {
