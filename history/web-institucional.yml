@@ -1,7 +1,7 @@
 url: $URL_INSTITUCIONAL
-status: up
+status: degraded
 code: 200
-responseTime: 2743
-lastUpdated: 2026-08-03T00:02:38.467Z
+responseTime: 11019
+lastUpdated: 2026-08-03T04:51:10.716Z
 startTime: 2022-02-02T19:45:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
