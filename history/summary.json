@@ -34,7 +34,7 @@
     "slug": "sicoex",
     "status": "down",
     "uptime": "46.65%",
-    "uptimeDay": "30.74%",
+    "uptimeDay": "27.99%",
     "uptimeWeek": "26.23%",
     "uptimeMonth": "4.68%",
     "uptimeYear": "0.55%",
@@ -408,7 +408,7 @@
       "2026-08-03": 1154,
       "2026-08-04": 1040,
       "2026-08-05": 977,
-      "2026-08-06": 72
+      "2026-08-06": 112
     }
   },
   {
@@ -418,7 +418,7 @@
     "slug": "acceso-a-mercados",
     "status": "degraded",
     "uptime": "81.20%",
-    "uptimeDay": "30.93%",
+    "uptimeDay": "28.18%",
     "uptimeWeek": "26.44%",
     "uptimeMonth": "4.73%",
     "uptimeYear": "15.56%",
@@ -739,7 +739,7 @@
       "2026-08-03": 1152,
       "2026-08-04": 1038,
       "2026-08-05": 973,
-      "2026-08-06": 73
+      "2026-08-06": 112
     }
   },
   {
@@ -752,7 +752,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "9.74%",
+    "uptimeYear": "9.75%",
     "time": 1259,
     "timeDay": 1093,
     "timeWeek": 1194,
@@ -1176,10 +1176,10 @@
     "slug": "prueba-error-500",
     "status": "degraded",
     "uptime": "99.64%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.40%",
+    "uptimeDay": "97.22%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.39%",
     "time": 1624,
     "timeDay": 7219,
     "timeWeek": 2754,
@@ -1207,7 +1207,7 @@
       "2026-05-18": 229,
       "2026-06-10": 105,
       "2026-07-14": 193,
-      "2026-08-06": 1
+      "2026-08-06": 40
     }
   }
 ]
