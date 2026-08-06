@@ -32,17 +32,17 @@
     "url": "$URL_SICOEX",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sicoex",
-    "status": "down",
+    "status": "up",
     "uptime": "46.65%",
-    "uptimeDay": "27.99%",
+    "uptimeDay": "17.70%",
     "uptimeWeek": "26.23%",
     "uptimeMonth": "4.68%",
     "uptimeYear": "0.55%",
-    "time": 2919,
-    "timeDay": 2710,
-    "timeWeek": 2771,
-    "timeMonth": 2745,
-    "timeYear": 2919,
+    "time": 2955,
+    "timeDay": 3124,
+    "timeWeek": 2827,
+    "timeMonth": 2788,
+    "timeYear": 2955,
     "dailyMinutesDown": {
       "2026-07-29": 1200,
       "2026-07-28": 1440,
@@ -408,7 +408,7 @@
       "2026-08-03": 1154,
       "2026-08-04": 1040,
       "2026-08-05": 977,
-      "2026-08-06": 112
+      "2026-08-06": 265
     }
   },
   {
@@ -416,17 +416,17 @@
     "url": "$URL_AAM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acceso-a-mercados",
-    "status": "degraded",
-    "uptime": "81.20%",
-    "uptimeDay": "28.18%",
-    "uptimeWeek": "26.44%",
+    "status": "up",
+    "uptime": "81.19%",
+    "uptimeDay": "17.81%",
+    "uptimeWeek": "26.45%",
     "uptimeMonth": "4.73%",
-    "uptimeYear": "15.56%",
-    "time": 10438,
-    "timeDay": 9487,
-    "timeWeek": 8335,
-    "timeMonth": 8630,
-    "timeYear": 12294,
+    "uptimeYear": "15.53%",
+    "time": 9181,
+    "timeDay": 7543,
+    "timeWeek": 8188,
+    "timeMonth": 8577,
+    "timeYear": 12271,
     "dailyMinutesDown": {
       "2026-07-29": 1198,
       "2026-07-28": 1440,
@@ -739,7 +739,7 @@
       "2026-08-03": 1152,
       "2026-08-04": 1038,
       "2026-08-05": 973,
-      "2026-08-06": 112
+      "2026-08-06": 266
     }
   },
   {
@@ -752,7 +752,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "9.75%",
+    "uptimeYear": "9.78%",
     "time": 1259,
     "timeDay": 1093,
     "timeWeek": 1194,
@@ -1174,17 +1174,17 @@
     "url": "$URL_ERROR_500",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prueba-error-500",
-    "status": "degraded",
-    "uptime": "99.64%",
-    "uptimeDay": "97.22%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.47%",
-    "uptimeYear": "99.39%",
-    "time": 1624,
-    "timeDay": 7219,
-    "timeWeek": 2754,
-    "timeMonth": 1709,
-    "timeYear": 1658,
+    "status": "up",
+    "uptime": "99.63%",
+    "uptimeDay": "86.56%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "99.12%",
+    "uptimeYear": "99.36%",
+    "time": 1625,
+    "timeDay": 5291,
+    "timeWeek": 2608,
+    "timeMonth": 1701,
+    "timeYear": 1657,
     "dailyMinutesDown": {
       "2025-08-09": 52,
       "2025-08-08": 254,
@@ -1207,7 +1207,7 @@
       "2026-05-18": 229,
       "2026-06-10": 105,
       "2026-07-14": 193,
-      "2026-08-06": 40
+      "2026-08-06": 194
     }
   }
 ]
