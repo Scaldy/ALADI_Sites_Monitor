@@ -12,7 +12,7 @@
     "uptimeYear": "99.35%",
     "time": 2366,
     "timeDay": 3028,
-    "timeWeek": 2797,
+    "timeWeek": 2827,
     "timeMonth": 3186,
     "timeYear": 2406,
     "dailyMinutesDown": {
@@ -32,17 +32,17 @@
     "url": "$URL_SICOEX",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sicoex",
-    "status": "down",
+    "status": "up",
     "uptime": "46.52%",
-    "uptimeDay": "26.63%",
-    "uptimeWeek": "22.09%",
+    "uptimeDay": "18.46%",
+    "uptimeWeek": "22.10%",
     "uptimeMonth": "10.15%",
     "uptimeYear": "1.00%",
-    "time": 2691,
-    "timeDay": 2082,
-    "timeWeek": 2453,
-    "timeMonth": 2603,
-    "timeYear": 2691,
+    "time": 2686,
+    "timeDay": 2150,
+    "timeWeek": 2450,
+    "timeMonth": 2599,
+    "timeYear": 2686,
     "dailyMinutesDown": {
       "2026-07-29": 1200,
       "2026-07-28": 1440,
@@ -408,7 +408,7 @@
       "2026-08-11": 1272,
       "2026-08-12": 1202,
       "2026-08-13": 1026,
-      "2026-08-14": 76
+      "2026-08-14": 194
     }
   },
   {
@@ -416,17 +416,17 @@
     "url": "$URL_AAM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acceso-a-mercados",
-    "status": "degraded",
+    "status": "up",
     "uptime": "80.91%",
-    "uptimeDay": "26.89%",
+    "uptimeDay": "18.71%",
     "uptimeWeek": "22.99%",
     "uptimeMonth": "10.41%",
-    "uptimeYear": "13.84%",
-    "time": 9892,
-    "timeDay": 9220,
-    "timeWeek": 8108,
-    "timeMonth": 8338,
-    "timeYear": 11892,
+    "uptimeYear": "13.82%",
+    "time": 9890,
+    "timeDay": 8325,
+    "timeWeek": 7933,
+    "timeMonth": 8300,
+    "timeYear": 11872,
     "dailyMinutesDown": {
       "2026-07-29": 1198,
       "2026-07-28": 1440,
@@ -747,7 +747,7 @@
       "2026-08-11": 1270,
       "2026-08-12": 1200,
       "2026-08-13": 1022,
-      "2026-08-14": 76
+      "2026-08-14": 194
     }
   },
   {
@@ -760,10 +760,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "11.93%",
+    "uptimeYear": "11.96%",
     "time": 1260,
     "timeDay": 1397,
-    "timeWeek": 1265,
+    "timeWeek": 1285,
     "timeMonth": 1190,
     "timeYear": 1162,
     "dailyMinutesDown": {
@@ -1103,7 +1103,7 @@
     "uptimeYear": "98.24%",
     "time": 1782,
     "timeDay": 2688,
-    "timeWeek": 2125,
+    "timeWeek": 2195,
     "timeMonth": 1675,
     "timeYear": 1723,
     "dailyMinutesDown": {
@@ -1158,7 +1158,7 @@
     "uptimeYear": "99.97%",
     "time": 151,
     "timeDay": 64,
-    "timeWeek": 80,
+    "timeWeek": 79,
     "timeMonth": 84,
     "timeYear": 163,
     "dailyMinutesDown": {
@@ -1182,7 +1182,7 @@
     "uptimeYear": "99.43%",
     "time": 1623,
     "timeDay": 1187,
-    "timeWeek": 1351,
+    "timeWeek": 1358,
     "timeMonth": 1700,
     "timeYear": 1654,
     "dailyMinutesDown": {
