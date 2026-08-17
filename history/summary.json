@@ -34,13 +34,13 @@
     "slug": "sicoex",
     "status": "down",
     "uptime": "46.45%",
-    "uptimeDay": "14.51%",
-    "uptimeWeek": "17.15%",
+    "uptimeDay": "12.80%",
+    "uptimeWeek": "15.79%",
     "uptimeMonth": "11.87%",
     "uptimeYear": "1.15%",
     "time": 2792,
-    "timeDay": 3685,
-    "timeWeek": 2817,
+    "timeDay": 2792,
+    "timeWeek": 2872,
     "timeMonth": 2747,
     "timeYear": 2792,
     "dailyMinutesDown": {
@@ -408,7 +408,7 @@
       "2026-08-14": 1253,
       "2026-08-15": 1211,
       "2026-08-16": 1269,
-      "2026-08-17": 994
+      "2026-08-17": 1236
     }
   },
   {
@@ -416,17 +416,17 @@
     "url": "$URL_AAM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acceso-a-mercados",
-    "status": "degraded",
-    "uptime": "80.76%",
-    "uptimeDay": "14.89%",
-    "uptimeWeek": "17.42%",
+    "status": "down",
+    "uptime": "80.75%",
+    "uptimeDay": "13.12%",
+    "uptimeWeek": "16.05%",
     "uptimeMonth": "12.17%",
-    "uptimeYear": "12.96%",
-    "time": 9183,
-    "timeDay": 8056,
-    "timeWeek": 8083,
+    "uptimeYear": "12.92%",
+    "time": 9192,
+    "timeDay": 8138,
+    "timeWeek": 8193,
     "timeMonth": 8279,
-    "timeYear": 11683,
+    "timeYear": 11701,
     "dailyMinutesDown": {
       "2026-07-29": 1198,
       "2026-07-28": 1440,
@@ -750,7 +750,7 @@
       "2026-08-14": 1250,
       "2026-08-15": 1205,
       "2026-08-16": 1265,
-      "2026-08-17": 990
+      "2026-08-17": 1232
     }
   },
   {
@@ -763,7 +763,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "12.96%",
+    "uptimeYear": "13.01%",
     "time": 1261,
     "timeDay": 1475,
     "timeWeek": 1227,
@@ -1186,7 +1186,7 @@
     "timeDay": 1233,
     "timeWeek": 1272,
     "timeMonth": 1683,
-    "timeYear": 1649,
+    "timeYear": 1648,
     "dailyMinutesDown": {
       "2025-09-11": 29,
       "2025-09-18": 16,
