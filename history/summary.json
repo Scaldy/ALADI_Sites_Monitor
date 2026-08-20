@@ -408,7 +408,7 @@
       "2026-08-17": 1272,
       "2026-08-18": 1359,
       "2026-08-19": 1336,
-      "2026-08-20": 1053
+      "2026-08-20": 1094
     }
   },
   {
@@ -416,17 +416,17 @@
     "url": "$URL_AAM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acceso-a-mercados",
-    "status": "down",
-    "uptime": "80.63%",
+    "status": "degraded",
+    "uptime": "80.62%",
     "uptimeDay": "2.42%",
     "uptimeWeek": "11.25%",
     "uptimeMonth": "12.68%",
-    "uptimeYear": "12.20%",
-    "time": 9321,
-    "timeDay": 9484,
-    "timeWeek": 8205,
-    "timeMonth": 8275,
-    "timeYear": 11671,
+    "uptimeYear": "12.19%",
+    "time": 9337,
+    "timeDay": 10371,
+    "timeWeek": 8291,
+    "timeMonth": 8297,
+    "timeYear": 11674,
     "dailyMinutesDown": {
       "2026-07-29": 1198,
       "2026-07-28": 1440,
@@ -753,7 +753,7 @@
       "2026-08-17": 1268,
       "2026-08-18": 1357,
       "2026-08-19": 1334,
-      "2026-08-20": 1052
+      "2026-08-20": 1093
     }
   },
   {
@@ -766,7 +766,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.51%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "13.76%",
+    "uptimeYear": "13.77%",
     "time": 1260,
     "timeDay": 895,
     "timeWeek": 1159,
