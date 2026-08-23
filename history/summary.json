@@ -32,11 +32,11 @@
     "url": "$URL_SICOEX",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sicoex",
-    "status": "up",
+    "status": "down",
     "uptime": "46.31%",
-    "uptimeDay": "2.72%",
-    "uptimeWeek": "6.54%",
-    "uptimeMonth": "12.73%",
+    "uptimeDay": "3.77%",
+    "uptimeWeek": "6.75%",
+    "uptimeMonth": "12.78%",
     "uptimeYear": "1.22%",
     "time": 2774,
     "timeDay": 2070,
@@ -408,7 +408,7 @@
       "2026-08-20": 1406,
       "2026-08-21": 1388,
       "2026-08-22": 1369,
-      "2026-08-23": 628
+      "2026-08-23": 630
     }
   },
   {
@@ -416,17 +416,17 @@
     "url": "$URL_AAM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acceso-a-mercados",
-    "status": "up",
-    "uptime": "80.50%",
-    "uptimeDay": "2.83%",
-    "uptimeWeek": "6.68%",
-    "uptimeMonth": "13.05%",
+    "status": "degraded",
+    "uptime": "80.51%",
+    "uptimeDay": "3.88%",
+    "uptimeWeek": "6.90%",
+    "uptimeMonth": "13.09%",
     "uptimeYear": "11.49%",
-    "time": 9449,
-    "timeDay": 8670,
-    "timeWeek": 8541,
-    "timeMonth": 8244,
-    "timeYear": 11667,
+    "time": 9465,
+    "timeDay": 8711,
+    "timeWeek": 8660,
+    "timeMonth": 8269,
+    "timeYear": 11671,
     "dailyMinutesDown": {
       "2026-07-29": 1198,
       "2026-07-28": 1440,
@@ -756,7 +756,7 @@
       "2026-08-20": 1405,
       "2026-08-21": 1387,
       "2026-08-22": 1367,
-      "2026-08-23": 627
+      "2026-08-23": 628
     }
   },
   {
@@ -1096,17 +1096,17 @@
     "url": "$URL_PLGN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plgn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "98.29%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "97.49%",
+    "uptimeDay": "96.78%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "97.44%",
     "uptimeYear": "98.25%",
     "time": 1783,
-    "timeDay": 2776,
-    "timeWeek": 2513,
-    "timeMonth": 1940,
-    "timeYear": 1725,
+    "timeDay": 2891,
+    "timeWeek": 2574,
+    "timeMonth": 1962,
+    "timeYear": 1726,
     "dailyMinutesDown": {
       "2026-06-21": 69,
       "2026-06-22": 408,
@@ -1144,7 +1144,7 @@
       "2026-07-28": 56,
       "2026-08-04": 59,
       "2026-08-18": 48,
-      "2026-08-23": 24
+      "2026-08-23": 46
     }
   },
   {
