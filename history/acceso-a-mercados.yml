@@ -1,7 +1,7 @@
 url: $URL_AAM
-status: up
+status: degraded
 code: 200
-responseTime: 2399
-lastUpdated: 2026-09-05T05:39:02.931Z
+responseTime: 13191
+lastUpdated: 2026-09-05T09:23:55.306Z
 startTime: 2022-02-02T16:41:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
